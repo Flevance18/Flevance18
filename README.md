@@ -1,88 +1,71 @@
-# ▮▮▮ SYS.ACCESS: Flevance18 | [ TRANSMISSION START ]
+# 🚀 Ayasa | Crypto & AI Engineer ⛓️
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00FF41&height=150&section=header&text=NEURAL%20LINK%20ESTABLISHED&fontSize=60&fontAlignY=40&animation=twinkling&desc=SYS.USER:%20Flevance18&descSize=20&descAlignY=70" width="100%" />
-</p>
-
-```text
-[ RUNNING ] Neural_Interface_v4.0.2...
-[ OK ] Identity Verified: Flevance18
-[ OK ] Connection: ENCRYPTED
-[ OK ] Location: CYBER-SPACE
-```
-
----
-
-### 🟢 // SYSTEM DIAGNOSTICS
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flevance18&show_icons=true&theme=matrix&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41" alt="Flevance18 Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=matrix&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41" alt="Top Langs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ayasa%20Vibe%20Code&fontSize=70&animation=fadeIn&fontAlignY=35&fontStyle=bold&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flevance18&theme=matrix&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
----
-
-### 💻 // TECHNICAL SPECS (BADGES)
+### 🖥️ Technical Area
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-KALI_LINUX-00FF41?style=for-the-badge&logo=kali-linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SHELL-ZSH-00FF41?style=for-the-badge&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-00FF41?style=for-the-badge&logo=neovim&logoColor=black" />
-  <img src="https://img.shields.io/badge/NETWORK-WIRESHARK-00FF41?style=for-the-badge&logo=wireshark&logoColor=black" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 🪙 // REAL-TIME CRYPTO INSIGHT
+### 🪙 Real-time Crypto Insight
 <p align="center">
-  <a href="https://www.coingecko.com/">
-    <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20" /> <b>BTC/USD:</b> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&label=&color=00FF41&style=flat-square" />
-    &nbsp;&nbsp;
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="20" /> <b>ETH/USD:</b> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dethereum%26vs_currencies%3Dusd&label=&color=00FF41&style=flat-square" />
-  </a>
+  <img src="https://img.shields.io/badge/BTC-Price-orange?style=flat-square&logo=bitcoin" />
+  <img src="https://img.shields.io/badge/ETH-Price-blue?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/SOL-Price-brightgreen?style=flat-square&logo=solana" />
 </p>
 
-> [!TIP]
-> Market data is synchronized via the global neural net. Proceed with caution, netrunner.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20Code%20We%20Trust,%20In%20Math%20We%20Mine." />
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-### 🐍 // CONTRIBUTION ACTIVITY
+### 📊 System Diagnostics
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flevance18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+### 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Flevance18/Flevance18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
-
-### 📡 // TRANSMISSION SIGNAL
 <p align="center">
-  <b>Activity:</b> Mining, DeFi and Crypto Researcher
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-<p align="center">
+
+### 📡 Transmission Signal
+<p align="left">
+  <img src="https://img.shields.io/badge/Activity-Mining,%20DeFi%20and%20Crypto%20Researcher-brightgreen?style=for-the-badge&logo=crystal-explorer" />
+  <br>
   <a href="https://x.com/Ayasa_18">
-    <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=00FF41" />
-  </a>
-  <a href="mailto:contact@flevance18.tech">
-    <img src="https://img.shields.io/badge/Email-Encrypted-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Twitter-@Ayasa__18-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00FF41&height=20&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>"In the dark of the grid, only the code remains."</i>
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=30&section=footer" width="100%" />
 </p>
