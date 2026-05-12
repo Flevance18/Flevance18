@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ayasa%20Vibe%20Code&fontSize=70&animation=fadeIn&fontAlignY=35&fontStyle=bold&fontColor=fff" width="100%" />
 </p>
 
-### 🖥️ Technical Arsenal
+### 🖥️ Technical Area
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -40,7 +40,5 @@
 ---
 
 ### 🛰️ Transmission Signal
-- ⛏️ **Current Activity:** Mining $PFFT on Ethereum Mainnet.
-- 🤖 **Neural Core:** Developing Flev Agent (Gemini-3 Flash).
+- ⛏️ **Current Activity:** Mining, DeFi And Crypto Researcher.
 - 🐦 **X (Twitter):** [@Ayasa_18](https://x.com/Ayasa_18)
-- 🚀 **Project Info:** [@NextGPU](https://x.com/NextGPU)
