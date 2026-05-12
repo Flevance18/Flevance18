@@ -28,13 +28,13 @@
 
 ### 📊 System Diagnostics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flevance18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flevance18&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=merko" />
 </p>
 
 ### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Flevance18/Flevance18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Flevance18/Flevance18/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
