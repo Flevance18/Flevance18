@@ -35,18 +35,41 @@
 </p>
 
 ### 📊 System Diagnostics
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flevance18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=SYSTEM+DIAGNOSTICS+%2F%2F+FLEVANCE18;MINING+%E2%80%A2+DEFI+%E2%80%A2+CRYPTO+RESEARCH;SIGNAL+LOCKED+%E2%80%A2+TELEMETRY+ONLINE" alt="System diagnostics terminal banner" />
 </p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Flevance18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=E6EDF3&ring_color=00F5FF&include_all_commits=true&rank_icon=github&cache_seconds=21600" alt="Flevance18 GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Flevance18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=39FF14&fire=FF5F1F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00F5FF&sideLabels=39FF14&dates=8B949E" alt="Flevance18 Contribution Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="69%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&langs_count=8&cache_seconds=21600" alt="Flevance18 Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="92%" />
+
+<table>
+  <tr>
+    <td align="center"><b>🛰️ SIGNAL</b><br><code>ONLINE</code></td>
+    <td align="center"><b>⛏️ VECTOR</b><br><code>MINING OPS</code></td>
+    <td align="center"><b>🔎 MODE</b><br><code>DEFI FORENSICS</code></td>
+    <td align="center"><b>🧠 ENGINE</b><br><code>CRYPTO RESEARCH</code></td>
+  </tr>
+</table>
+
+</div>
 
 ### 🐍 Contribution Activity
 <p align="center">
