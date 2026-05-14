@@ -44,16 +44,24 @@
 
 <table>
   <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flevance18&theme=tokyonight" alt="Flevance18 GitHub profile details" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Flevance18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=E6EDF3&ring_color=00F5FF&include_all_commits=true&rank_icon=github&cache_seconds=21600" alt="Flevance18 GitHub Stats" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flevance18&theme=tokyonight" alt="Flevance18 GitHub statistics" />
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Flevance18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=39FF14&fire=FF5F1F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00F5FF&sideLabels=39FF14&dates=8B949E" alt="Flevance18 Contribution Streak" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img width="69%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flevance18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&langs_count=8&cache_seconds=21600" alt="Flevance18 Most Used Languages" />
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flevance18&theme=tokyonight" alt="Flevance18 repository languages" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flevance18&theme=tokyonight&utcOffset=8" alt="Flevance18 productive time" />
     </td>
   </tr>
 </table>
